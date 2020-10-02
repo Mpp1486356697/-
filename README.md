@@ -1,4 +1,4 @@
-# -抢红包
+# 抢红包
 分布式下用户抢红包
 nginx+Dubbo+springboot+mysql+redis
 dubbo_interface 接口工程 、dubbo_provider 服务提供者、dubbo_consumer为服务消费者
